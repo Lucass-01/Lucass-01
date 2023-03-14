@@ -1,8 +1,6 @@
 
 ### Olá! sou o Lucas ✋
 
-
-
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucass-01&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
